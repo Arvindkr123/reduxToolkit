@@ -9,6 +9,7 @@ lerna-debug.log*
 
 CurdRedux/
 TodoListRedux/
+MailBoxClientApplication/
 node_modules
 dist
 dist-ssr
